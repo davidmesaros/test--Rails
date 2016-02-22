@@ -1,0 +1,6 @@
+- Create a Pages Controller
+
+- Ensure you have apppropiate routes
+
+- Create a homepage, about - inter link
+
